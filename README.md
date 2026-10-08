@@ -36,3 +36,5 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 - Added real-life data
 - Improved DayFlow for real-world usage
 - Updated user experience
+- <img width="278" height="116" alt="image" src="https://github.com/user-attachments/assets/c3fd425a-233b-4e19-9636-08f435bd2fd9" />
+
